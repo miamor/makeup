@@ -3,7 +3,7 @@
 ## Prerequisites
 dlib  
 openface
-(for running server) flask   
+flask (for running server)   
 
 ## To train:
 1. Delete ./data/generated-embeddings and ./data/aligned-images
