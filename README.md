@@ -20,9 +20,9 @@ and put those 2 in ./models/dlib/
 `./demos/classifier.py infer ./data/generated-embeddings/classifier.pkl ./data/shane.jpg`  
 
 ### Run test from server
-To run test from server, you must have flask installed, and run from virtualenv.
+To run test from server, you must have flask installed, and run from virtualenv.    
 Activate server:
-`python server.py`
-Your server will run at http://127.0.0.0:5000   
+`python server.py`    
+Your server will run at http://127.0.0.0:5000    
 Go to http://127.0.0.1:5000/detect_face_shape/shane/ to test or http://127.0.0.1:5000/detect_face_shape/<image_name>/   
 whereas ./data/<image_name> is your test image to classify
