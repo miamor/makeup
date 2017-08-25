@@ -4,7 +4,8 @@
 1. dlib   
 2. openface   
 3. flask (optional, for running server)   
-4. Models: [dlib_face_recognition_resnet_model_v1.dat](https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat) (for dlib usage)   
+4. Models:   
+[dlib_face_recognition_resnet_model_v1.dat](https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat) (for dlib usage)   
 [shape_predictor_68_face_landmarks.dat](https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat) (for openface usage)   
 and put those 2 in ./models/dlib/
 
