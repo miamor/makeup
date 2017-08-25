@@ -1,9 +1,9 @@
 # makeup
 
 ## Prerequisites
-dlib  
-openface
-flask (for running server)   
+dlib   
+openface   
+flask (optional, for running server)   
 
 ## To train:
 1. Delete ./data/generated-embeddings and ./data/aligned-images
